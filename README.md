@@ -1,6 +1,7 @@
 ### Hi there :art:
 
-I am Minji Kwon 
+I am Minji Kwon, working as a data scientist.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minji-kwon-0ba22718b/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 
 ### :blossom: Research Interest
 - Data Analytics
