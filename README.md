@@ -11,9 +11,9 @@ I am Minji Kwon, working as a data scientist.
 - Data Visualization
 
 ### :sparkles: Experiences
-1. Research Specialist - *Seoul Institue of Technology, Data Science Center* (2019.07 ~ current)
-2. Researcher - *KIST, Convergence Research Policy Center* (2018.07 ~ 2019.06)
-3. Associate Consultant - *LG CNS, Hi-Tech Industry Group* (2018.01 ~ 2018.06)
+- Research Specialist - *Seoul Institue of Technology, Data Science Center* (2019.07 ~ current)
+- Researcher - *KIST, Convergence Research Policy Center* (2018.07 ~ 2019.06)
+- Associate Consultant - *LG CNS, Hi-Tech Industry Group* (2018.01 ~ 2018.06)
 
 <!--
 **mindykwon/mindykwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
