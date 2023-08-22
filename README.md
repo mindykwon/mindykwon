@@ -7,7 +7,6 @@ I am Minji Kwon, working as a data scientist.
 ### :blossom: Research Interest
 - Data Analytics
 - Machine Learning, Deep Learning
-- Recommendation System
 - Data Visualization
 
 ### :sparkles: Experiences
