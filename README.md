@@ -5,9 +5,10 @@ I am Minji Kwon, working as a data scientist.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minji-kwon-0ba22718b/)](https://www.linkedin.com/in/minji-kwon-0ba22718b/)
 
 ### :blossom: Research Interest
+- Data Visualization
 - Data Analytics
 - Machine Learning, Deep Learning
-- Data Visualization
+- Graph Neural Network
 
 ### :sparkles: Experiences
 - Engineer - *Samsung Electronics, DS Memory Circuit Design Signoff* (2024.04 ~ current)
