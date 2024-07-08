@@ -10,7 +10,8 @@ I am Minji Kwon, working as a data scientist.
 - Data Visualization
 
 ### :sparkles: Experiences
-- Research Specialist - *Seoul Institue of Technology, Data Science Center* (2019.07 ~ current)
+- Engineer - *Samsung Electronics, DS Memory Circuit Design Signoff* (2024.04 ~ current)
+- Research Specialist - *Seoul Institue of Technology, Data Science Center* (2019.07 ~ 2024.03)
 - Researcher - *KIST, Convergence Research Policy Center* (2018.07 ~ 2019.06)
 - Associate Consultant - *LG CNS, Hi-Tech Industry Group* (2018.01 ~ 2018.06)
 
